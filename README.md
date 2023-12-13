@@ -4,7 +4,7 @@
 Course title: ***TALLER DE COMUNICACIÓN Y OPTIMIZACIÓN ENERGÉTICA
 CON DISPOSITIVOS IOT CELULAR (NB-IOT, LTE-M)***
 
-The goal of the workshop is to introduce the assistants to the cellular IoT low-power technologies (NB-IoT, LTE-M), which will for also part of the technologies for future 5G massive IoT communications.
+The goal of the workshop is to introduce the assistants to the cellular IoT low-power technologies (NB-IoT, LTE-M), which will be part of the technologies for future 5G massive IoT communications.
 
 The course is supported by two types of files: 
 1. **PDF guides** that consist in one guide for the course instructor and another guide for the student following this course 
