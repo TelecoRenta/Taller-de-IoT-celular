@@ -8,7 +8,7 @@ The goal of the workshop is to introduce the assistants to the cellular IoT low-
 
 The course is supported by two types of files: 
 1. **PDF guides** that consist in one guide for the course instructor and another guide for the student following this course 
-2. The file `example_workshopCIoT.otii` which contains a set of ordered recordings from an Otii Consumption Analyser. These recordings can be used as a reference for the exercises proposed to the students
+2. The file `example_workshopCIoT.otii` which contains a set of ordered recordings from an Otii Consumption Analyser and must be opened with the [Otii 2 Software - Release 2.8.4](https://www.qoitech.com/download). These recordings can be used as a reference for the exercises proposed to the students
 
 In addition to the above files it will necessary to use hardware components, some mandatory and others that are optional. None of these hardware components are provided as part of the course and should be acquired by the organizers of the workshop.
 
