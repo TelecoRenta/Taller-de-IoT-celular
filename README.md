@@ -10,7 +10,7 @@ The course is supported by two types of files:
 1. **PDF guides** that consist in one guide for the course instructor and another guide for the student following this course 
 2. The file `example_workshopCIoT.otii` which contains a set of ordered recordings from an Otii Consumption Analyser and must be opened with the [Otii 2 Software - Release 2.8.4](https://www.qoitech.com/download). These recordings can be used as a reference for the exercises proposed to the students
 
-In addition to the above files it will necessary to use hardware components, some mandatory and others that are optional. None of these hardware components are provided as part of the course and should be acquired by the organizers of the workshop.
+In addition to the above files it will be necessary to use hardware components, some mandatory and others that are optional. None of these hardware components are provided as part of the course and should be acquired by the organizers of the workshop.
 
  
 
@@ -19,7 +19,7 @@ In addition to the above files it will necessary to use hardware components, som
 ## About
 
 
-This course has been created by Dr. Matisa Catalán Cid at [Fundació I2CAT](https://i2cat.net/), in the frame of the TelecoRenta Proyect from the UNICO 5G Program.        
+This course has been created by Dr. Marisa Catalán Cid at [Fundació I2CAT](https://i2cat.net/), in the frame of the TelecoRenta Proyect from the UNICO 5G Program.        
 
 
 ## Contact
