@@ -28,7 +28,7 @@ This workshop has been created by Dr. Marisa Catalán Cid at [Fundació I2CAT](h
 If you have any questions, feedback, or inquiries about the content on this repository, please feel free to reach out to our team using the following email address:
 
 
-- For technical inquiries: [marisa.catalan@i2cat.net](mailto:marisa.catalan@i2cat.net)
+- [marisa.catalan@i2cat.net](mailto:marisa.catalan@i2cat.net)
 
 
 
